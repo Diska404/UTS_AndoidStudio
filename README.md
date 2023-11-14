@@ -1,6 +1,6 @@
-# UTS-Android
+# UTS Android Studio
 
-# main activity java
+# Main Activity Java
 ~~~
 package com.vibonasi;
 
@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 ~~~
-# activity main XML
+# Activity Main XML
 ~~~
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -225,6 +225,8 @@ public class MainActivity extends AppCompatActivity {
         <string name="fibonacci_message">Program Fibonacci</string>
 </resources>
 ~~~
-penampilan web nya
+Tampilan Web Nya
 
-![WhatsApp Image 2023-11-14 at 04 10 53](https://github.com/Akramsatya085/UTS-Android/assets/115615953/b88bf9bc-7f17-483d-9855-888ee64f5555)
+![Cuplikan layar 2023-11-14 103650](https://github.com/Diska404/UTS_AndoidStudio/assets/115615910/fd35ca95-68a2-4d96-be86-8ec0dc5e8190)
+
+
